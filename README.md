@@ -8,5 +8,5 @@ You can compile this code using Eclipse or NetBeans IDE
 
 
 # About
-PS: I created this project when I was 1st year college and I saw this application that I made so I was thinking to just throw it to here.
+I created this project when I was 1st year college and I saw this application that I made so I was thinking to just throw it to here.
 - Renato Jr.
